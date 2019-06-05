@@ -32,7 +32,7 @@ The models provided with the sample recognizes Hemlock/Japanese Cherry images. T
   8. Click button to select image to evaluate.
 
 ### Things to note
-- The test image should larger than 227 x 227
+- The test image should be larger than 227 x 227
 
 
 ## Resources
